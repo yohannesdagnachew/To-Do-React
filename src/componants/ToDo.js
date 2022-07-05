@@ -1,6 +1,5 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
-import './ToDo.css';
 
 export default function ToDo({ todo, toggeleCheck }) {
   const chackHandeler = () => {

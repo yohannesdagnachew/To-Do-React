@@ -1,3 +1,4 @@
+
 .App {
   display: flex;
   gap: 1.25rem;
@@ -5,8 +6,8 @@
   padding: 3.125rem;
 }
 
-.Add{
-   display: flex;
-   gap: .3125rem;
-   flex-direction: column;
+.Add {
+  display: flex;
+  gap: 0.3125rem;
+  flex-direction: column;
 }
